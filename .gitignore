@@ -1,0 +1,7 @@
+*.ez
+/_build
+/cover
+/deps
+/src/fale_lex.erl
+/src/fale_parse.erl
+erl_crash.dump
